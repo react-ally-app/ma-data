@@ -56,7 +56,7 @@
           "url": "/content/1/6",
           "next": {
             "sno": "2.1",
-            "url": "/content/2/2"
+            "url": "/content/2/1"
           }
         }
       ]
@@ -253,8 +253,8 @@
           "name": "distinct, skip",
           "url": "/content/4/5",
           "next": {
-            "sno": "5.`",
-            "url": "/content/5/`"
+            "sno": "5.1",
+            "url": "/content/5/1"
           }
         }
       ]
