@@ -1,0 +1,195 @@
+{
+  "questions": [
+    {
+      "url": "/interview/1",
+      "question": "What is MongoDB, and how does it differ from traditional relational databases?"
+    },
+    {
+      "url": "/interview/2",
+      "question": "Explain the advantages of using MongoDB."
+    },
+    {"url": "/interview/3", "question": "What is a document in MongoDB?"},
+    {"url": "/interview/4", "question": "What is a collection in MongoDB?"},
+    {
+      "url": "/interview/5",
+      "question": "How does MongoDB handle schema-less data?"
+    },
+    {
+      "url": "/interview/6",
+      "question": "What is BSON, and how does it relate to JSON?"
+    },
+    {
+      "url": "/interview/7",
+      "question": "Explain the purpose of the `_id` field in MongoDB."
+    },
+    {
+      "url": "/interview/8",
+      "question": "How do you insert a document into a MongoDB collection?"
+    },
+    {
+      "url": "/interview/9",
+      "question": "What is a replica set in MongoDB?"
+    },
+    {
+      "url": "/interview/10",
+      "question": "How does MongoDB achieve horizontal scaling?"
+    },
+    {
+      "url": "/interview/11",
+      "question": "What is sharding, and how does it work in MongoDB?"
+    },
+    {
+      "url": "/interview/12",
+      "question": "Explain the difference between `find()` and `findOne()` in MongoDB."
+    },
+    {
+      "url": "/interview/13",
+      "question": "How do you update a document in MongoDB?"
+    },
+    {
+      "url": "/interview/14",
+      "question": "What are the different types of indexes available in MongoDB?"
+    },
+    {
+      "url": "/interview/15",
+      "question": "How do you delete a document from a MongoDB collection?"
+    },
+    {
+      "url": "/interview/16",
+      "question": "What is the aggregation framework in MongoDB?"
+    },
+    {
+      "url": "/interview/17",
+      "question": "Explain the use of `$match` and `$group` stages in the aggregation pipeline."
+    },
+    {
+      "url": "/interview/18",
+      "question": "What is the purpose of the `createIndex` method in MongoDB?"
+    },
+    {
+      "url": "/interview/19",
+      "question": "How does MongoDB handle transactions?"
+    },
+    {
+      "url": "/interview/20",
+      "question": "What is the difference between `updateOne` and `updateMany`?"
+    },
+    {
+      "url": "/interview/21",
+      "question": "Explain how replication works in MongoDB."
+    },
+    {
+      "url": "/interview/22",
+      "question": "What is the role of the primary and secondary nodes in a replica set?"
+    },
+    {
+      "url": "/interview/23",
+      "question": "How does MongoDB handle data consistency?"
+    },
+    {
+      "url": "/interview/24",
+      "question": "What is a capped collection in MongoDB?"
+    },
+    {
+      "url": "/interview/25",
+      "question": "How do you implement text search in MongoDB?"
+    },
+    {
+      "url": "/interview/26",
+      "question": "What is the use of the `$lookup` operator in MongoDB?"
+    },
+    {
+      "url": "/interview/27",
+      "question": "Explain the difference between `aggregate` and `mapReduce`."
+    },
+    {
+      "url": "/interview/28",
+      "question": "How do you handle large data sets in MongoDB?"
+    },
+    {
+      "url": "/interview/29",
+      "question": "What is the difference between `Mongod` and `Mongos`?"
+    },
+    {
+      "url": "/interview/30",
+      "question": "How does MongoDB handle concurrency?"
+    },
+    {
+      "url": "/interview/31",
+      "question": "What are some best practices for designing schemas in MongoDB?"
+    },
+    {
+      "url": "/interview/32",
+      "question": "How do you optimize query performance in MongoDB?"
+    },
+    {
+      "url": "/interview/33",
+      "question": "What is the purpose of the `$explain` method in MongoDB?"
+    },
+    {
+      "url": "/interview/34",
+      "question": "How do you handle index creation in large collections?"
+    },
+    {
+      "url": "/interview/35",
+      "question": "What is the WiredTiger storage engine, and how does it improve performance?"
+    },
+    {
+      "url": "/interview/36",
+      "question": "How can you monitor MongoDB performance?"
+    },
+    {
+      "url": "/interview/37",
+      "question": "How do you secure a MongoDB database?"
+    },
+    {
+      "url": "/interview/38",
+      "question": "Explain the role of authentication and authorization in MongoDB."
+    },
+    {
+      "url": "/interview/39",
+      "question": "What is role-based access control (RBAC) in MongoDB?"
+    },
+    {
+      "url": "/interview/40",
+      "question": "How do you enable encryption in MongoDB?"
+    },
+    {"url": "/interview/41", "question": "What is MongoDB Atlas?"},
+    {
+      "url": "/interview/42",
+      "question": "How do you back up and restore data in MongoDB?"
+    },
+    {
+      "url": "/interview/43",
+      "question": "What is the role of the MongoDB shell?"
+    },
+    {
+      "url": "/interview/44",
+      "question": "How does MongoDB integrate with other tools and platforms (e.g., Hadoop, Spark)?"
+    },
+    {
+      "url": "/interview/45",
+      "question": "What is the difference between NoSQL and SQL databases?"
+    },
+    {
+      "url": "/interview/46",
+      "question": "How do you migrate data from a relational database to MongoDB?"
+    },
+    {
+      "url": "/interview/47",
+      "question": "What are the limitations of MongoDB?"
+    },
+    {
+      "url": "/interview/48",
+      "question": "How does MongoDB handle versioning and upgrades?"
+    },
+    {
+      "url": "/interview/49",
+      "question": "What are MongoDB drivers, and how do they work?"
+    },
+    {
+      "url": "/interview/50",
+      "question": "How do you troubleshoot common MongoDB issues?"
+    }
+  ]
+}
