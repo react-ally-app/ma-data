@@ -1,0 +1,656 @@
+{
+  "name": "MongoDB Ally",
+  "modules": [
+    {
+      "name": "Introduction to Databases",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "1.1",
+          "name": "What is Data and Database?",
+          "url": "/content/1/1",
+          "next": {
+            "sno": "1.2",
+            "url": "/content/1/2"
+          }
+        },
+        {
+          "sno": "1.2",
+          "name": "Types of Databases",
+          "url": "/content/1/2",
+          "next": {
+            "sno": "1.3",
+            "url": "/content/1/3"
+          }
+        },
+        {
+          "sno": "1.3",
+          "name": "Database Management Systems",
+          "url": "/content/1/3",
+          "next": {
+            "sno": "1.4",
+            "url": "/content/1/4"
+          }
+        },
+        {
+          "sno": "1.4",
+          "name": "Data Schemas and Models",
+          "url": "/content/1/4",
+          "next": {
+            "sno": "1.5",
+            "url": "/content/1/5"
+          }
+        },
+        {
+          "sno": "1.5",
+          "name": "ACIP Properties",
+          "url": "/content/1/5",
+          "next": {
+            "sno": "1.6",
+            "url": "/content/1/6"
+          }
+        },
+        {
+          "sno": "1.6",
+          "name": "CAP Theorem",
+          "url": "/content/1/6",
+          "next": {
+            "sno": "2.1",
+            "url": "/content/2/2"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Introduction to MongoDB",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "2.1",
+          "name": "MongoDB Quick Start",
+          "url": "/content/2/1",
+          "next": {
+            "sno": "2.2",
+            "url": "/content/2/2"
+          }
+        },
+        {
+          "sno": "2.2",
+          "name": "RDBMS vs MongoDB",
+          "url": "/content/2/2",
+          "next": {
+            "sno": "2.3",
+            "url": "/content/2/3"
+          }
+        },
+        {
+          "sno": "2.3",
+          "name": "Data Storage in MongoDB",
+          "url": "/content/2/3",
+          "next": {
+            "sno": "2.4",
+            "url": "/content/2/4"
+          }
+        },
+        {
+          "sno": "2.4",
+          "name": "MongoDB Architecture",
+          "url": "/content/2/4",
+          "next": {
+            "sno": "2.5",
+            "url": "/content/2/5"
+          }
+        },
+        {
+          "sno": "2.5",
+          "name": "Installation and Setup",
+          "url": "/content/2/5",
+          "next": {
+            "sno": "2.6",
+            "url": "/content/2/6"
+          }
+        },
+        {
+          "sno": "2.6",
+          "name": "Database, Collection, and Document",
+          "url": "/content/2/6",
+          "next": {
+            "sno": "2.7",
+            "url": "/content/2/7"
+          }
+        },
+        {
+          "sno": "2.7",
+          "name": "Data types",
+          "url": "/content/2/7",
+          "next": {
+            "sno": "2.8",
+            "url": "/content/2/8"
+          }
+        },
+        {
+          "sno": "2.8",
+          "name": "CRUD Operations",
+          "url": "/content/2/8",
+          "next": {
+            "sno": "3.1",
+            "url": "/content/3/1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "MongoDB Methods",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "3.1",
+          "name": "Insertion methods",
+          "url": "/content/3/1",
+          "next": {
+            "sno": "3.2",
+            "url": "/content/3/2"
+          }
+        },
+        {
+          "sno": "3.2",
+          "name": "Bulk.insert()",
+          "url": "/content/3/2",
+          "next": {
+            "sno": "3.3",
+            "url": "/content/3/3"
+          }
+        },
+        {
+          "sno": "3.3",
+          "name": "Updation methods",
+          "url": "/content/3/3",
+          "next": {
+            "sno": "3.4",
+            "url": "/content/3/4"
+          }
+        },
+        {
+          "sno": "3.4",
+          "name": "Find methods",
+          "url": "/content/3/4",
+          "next": {
+            "sno": "3.5",
+            "url": "/content/3/5"
+          }
+        },
+        {
+          "sno": "3.5",
+          "name": "findAndModify()",
+          "url": "/content/3/5",
+          "next": {
+            "sno": "3.6",
+            "url": "/content/3/6"
+          }
+        },
+        {
+          "sno": "3.6",
+          "name": "Other find methods",
+          "url": "/content/3/6",
+          "next": {
+            "sno": "3.7",
+            "url": "/content/3/7"
+          }
+        },
+        {
+          "sno": "3.7",
+          "name": "Deletion methods",
+          "url": "/content/3/7",
+          "next": {
+            "sno": "4.1",
+            "url": "/content/4/1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Other Methods",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "4.1",
+          "name": "bulkWrite",
+          "url": "/content/4/1",
+          "next": {
+            "sno": "4.2",
+            "url": "/content/4/2"
+          }
+        },
+        {
+          "sno": "4.2",
+          "name": "sort, limit",
+          "url": "/content/4/2",
+          "next": {
+            "sno": "4.3",
+            "url": "/content/4/3"
+          }
+        },
+        {
+          "sno": "4.3",
+          "name": "copyTo",
+          "url": "/content/4/3",
+          "next": {
+            "sno": "4.4",
+            "url": "/content/4/4"
+          }
+        },
+        {
+          "sno": "4.4",
+          "name": "Count Methods",
+          "url": "/content/4/4",
+          "next": {
+            "sno": "4.5",
+            "url": "/content/4/5"
+          }
+        },
+        {
+          "sno": "4.5",
+          "name": "distinct, skip",
+          "url": "/content/4/5",
+          "next": {
+            "sno": "5.`",
+            "url": "/content/5/`"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Query Operators",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "5.1",
+          "name": "Comparison Operators",
+          "url": "/content/5/1",
+          "next": {
+            "sno": "5.2",
+            "url": "/content/5/2"
+          }
+        },
+        {
+          "sno": "5.2",
+          "name": "Logical Operators",
+          "url": "/content/5/2",
+          "next": {
+            "sno": "5.3",
+            "url": "/content/5/3"
+          }
+        },
+        {
+          "sno": "5.3",
+          "name": "Arithmetic Operators",
+          "url": "/content/5/3",
+          "next": {
+            "sno": "5.4",
+            "url": "/content/5/4"
+          }
+        },
+        {
+          "sno": "5.4",
+          "name": "Field Update Operators",
+          "url": "/content/5/4",
+          "next": {
+            "sno": "5.5",
+            "url": "/content/5/5"
+          }
+        },
+        {
+          "sno": "5.5",
+          "name": "Array Expression Operators",
+          "url": "/content/5/5",
+          "next": {
+            "sno": "5.6",
+            "url": "/content/5/6"
+          }
+        },
+        {
+          "sno": "5.6",
+          "name": "Array Update Operators",
+          "url": "/content/5/6",
+          "next": {
+            "sno": "5.7",
+            "url": "/content/5/7"
+          }
+        },
+        {
+          "sno": "5.7",
+          "name": "String Expression Operators",
+          "url": "/content/5/7",
+          "next": {
+            "sno": "6.1",
+            "url": "/content/6/1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Core Concepts",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "6.1",
+          "name": "Capped collections",
+          "url": "/content/6/1",
+          "next": {
+            "sno": "6.2",
+            "url": "/content/6/2"
+          }
+        },
+        {
+          "sno": "6.2",
+          "name": "Embedded Documents",
+          "url": "/content/6/2",
+          "next": {
+            "sno": "6.3",
+            "url": "/content/6/3"
+          }
+        },
+        {
+          "sno": "6.3",
+          "name": "Relationships",
+          "url": "/content/6/3",
+          "next": {
+            "sno": "6.4",
+            "url": "/content/6/4"
+          }
+        },
+        {
+          "sno": "6.4",
+          "name": "Indexing",
+          "url": "/content/6/4",
+          "next": {
+            "sno": "6.5",
+            "url": "/content/6/5"
+          }
+        },
+        {
+          "sno": "6.5",
+          "name": "Indexing Types",
+          "url": "/content/6/5",
+          "next": {
+            "sno": "6.6",
+            "url": "/content/6/6"
+          }
+        },
+        {
+          "sno": "6.6",
+          "name": "Indexing Methods",
+          "url": "/content/6/6",
+          "next": {
+            "sno": "6.7",
+            "url": "/content/6/7"
+          }
+        },
+        {
+          "sno": "6.7",
+          "name": "Text Search",
+          "url": "/content/6/7",
+          "next": {
+            "sno": "6.8",
+            "url": "/content/6/8"
+          }
+        },
+        {
+          "sno": "6.8",
+          "name": "Map-Reduce",
+          "url": "/content/6/8",
+          "next": {
+            "sno": "7.1",
+            "url": "/content/7/1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Advanced Concepts",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "7.1",
+          "name": "Import data",
+          "url": "/content/7/1",
+          "next": {
+            "sno": "7.2",
+            "url": "/content/7/2"
+          }
+        },
+        {
+          "sno": "7.2",
+          "name": "Export Data",
+          "url": "/content/7/2",
+          "next": {
+            "sno": "7.3",
+            "url": "/content/7/3"
+          }
+        },
+        {
+          "sno": "7.3",
+          "name": "Regex",
+          "url": "/content/7/3",
+          "next": {
+            "sno": "7.4",
+            "url": "/content/7/4"
+          }
+        },
+        {
+          "sno": "7.4",
+          "name": "Aggregation",
+          "url": "/content/7/4",
+          "next": {
+            "sno": "7.5",
+            "url": "/content/7/5"
+          }
+        },
+        {
+          "sno": "7.5",
+          "name": "Authentication",
+          "url": "/content/7/5",
+          "next": {
+            "sno": "7.6",
+            "url": "/content/7/6"
+          }
+        },
+        {
+          "sno": "7.6",
+          "name": "Replication and Sharding",
+          "url": "/content/7/6",
+          "next": {
+            "sno": "7.7",
+            "url": "/content/7/7"
+          }
+        },
+        {
+          "sno": "7.7",
+          "name": "Backup and Restoration",
+          "url": "/content/7/7",
+          "next": {
+            "sno": "8.1",
+            "url": "/content/8/1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "MongoDB with Node.js",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "8.1",
+          "name": "Introduction to Node.js and MongoDB",
+          "url": "/content/8/1",
+          "next": {
+            "sno": "8.2",
+            "url": "/content/8/2"
+          }
+        },
+        {
+          "sno": "8.2",
+          "name": "Setting Up the Environment",
+          "url": "/content/8/2",
+          "next": {
+            "sno": "8.3",
+            "url": "/content/8/3"
+          }
+        },
+        {
+          "sno": "8.3",
+          "name": "Connecting MongoDB with Node.js",
+          "url": "/content/8/3",
+          "next": {
+            "sno": "8.4",
+            "url": "/content/8/4"
+          }
+        },
+        {
+          "sno": "8.4",
+          "name": "CRUD Operations in Node.js",
+          "url": "/content/8/4",
+          "next": {
+            "sno": "8.5",
+            "url": "/content/8/5"
+          }
+        },
+        {
+          "sno": "8.5",
+          "name": "Working with Mongoose",
+          "url": "/content/8/5",
+          "next": {
+            "sno": "8.6",
+            "url": "/content/8/6"
+          }
+        },
+        {
+          "sno": "8.6",
+          "name": "Schema Design and Data Modeling",
+          "url": "/content/8/6",
+          "next": {
+            "sno": "8.7",
+            "url": "/content/8/7"
+          }
+        },
+        {
+          "sno": "8.7",
+          "name": "Schema Design Process Example",
+          "url": "/content/8/7",
+          "next": {
+            "sno": "8.8",
+            "url": "/content/8/8"
+          }
+        },
+        {
+          "sno": "8.8",
+          "name": "Using MongoDB with Express.js",
+          "url": "/content/8/8",
+          "next": {
+            "sno": "9.1",
+            "url": "/content/9/1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "MongoDB with Python",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "9.1",
+          "name": "Introduction to PyMongo",
+          "url": "/content/9/1",
+          "next": {
+            "sno": "9.2",
+            "url": "/content/9/2"
+          }
+        },
+        {
+          "sno": "9.2",
+          "name": "Connecting to MongoDB",
+          "url": "/content/9/2",
+          "next": {
+            "sno": "9.3",
+            "url": "/content/9/3"
+          }
+        },
+        {
+          "sno": "9.3",
+          "name": "Working with Databases and Collections",
+          "url": "/content/9/3",
+          "next": {
+            "sno": "9.4",
+            "url": "/content/9/4"
+          }
+        },
+        {
+          "sno": "9.4",
+          "name": "CRUD Operations with PyMongo",
+          "url": "/content/9/4",
+          "next": {
+            "sno": "9.5",
+            "url": "/content/9/5"
+          }
+        },
+        {
+          "sno": "9.5",
+          "name": "Working with Queries",
+          "url": "/content/9/5",
+          "next": {
+            "sno": "9.6",
+            "url": "/content/9/6"
+          }
+        },
+        {
+          "sno": "9.6",
+          "name": "Aggregation Framework",
+          "url": "/content/9/6",
+          "next": {
+            "sno": "9.7",
+            "url": "/content/9/7"
+          }
+        },
+        {
+          "sno": "9.7",
+          "name": "Indexing",
+          "url": "/content/9/7",
+          "next": {
+            "sno": "9.8",
+            "url": "/content/9/8"
+          }
+        },
+        {
+          "sno": "9.8",
+          "name": "Schema Design and Data Modeling",
+          "url": "/content/9/8",
+          "next": {
+            "sno": "9.9",
+            "url": "/content/9/9"
+          }
+        },
+        {
+          "sno": "9.9",
+          "name": "Deploying PyMongo App",
+          "url": "/content/9/9",
+          "next": {
+            "sno": "10.1",
+            "url": "/content/10/1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "The End",
+      "time": "",
+      "chapters": [
+        {
+          "sno": "10.1",
+          "name": "Wrapping Up",
+          "url": "/content/10/1",
+          "next": {}
+        }
+      ]
+    }
+  ]
+}
