@@ -2,12 +2,12 @@
   "name": "MongoDB Ally",
   "videos": [
     {
-      "name": "MongoDB Ally",
+      "name": "MongoDB Ally | findOne() method | CRUD Operations",
       "url": "https://www.youtube.com/embed/9OPP_1eAENg",
       "description": "MongoDB Ally is a tool that helps you to visualize your MongoDB data. It is a desktop application that you can use to connect to your MongoDB Atlas cluster and visualize your data in a graphical way. It is a great tool for developers who want to visualize their data in a graphical way.",
       "date": "2024-09-01T14:30:00Z",
       "duration": "11:00",
-      "thumbnail": "https://i.ytimg.com/vi/9OPP_1eAENg/maxresdefault.jpg",
+      "thumbnail": "https://static-cse.canva.com/blob/1667994/1600w-wK95f3XNRaM.jpg",
       "id": 1
     }
   ]
